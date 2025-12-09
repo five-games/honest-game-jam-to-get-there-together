@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Objects
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Grabbable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Design
+    uniqueID: 757370685
+    locked: 0
+  - name: Eye
+    uniqueID: 563196095
+    locked: 0
+  - name: Lens
+    uniqueID: 981482741
+    locked: 0
+  - name: Body
+    uniqueID: 3437985853
+    locked: 0
+  - name: Mouth
+    uniqueID: 476002399
+    locked: 0
+  - name: NPC_body
+    uniqueID: 17569925
+    locked: 0
+  - name: NPC_eye
+    uniqueID: 4052147121
+    locked: 0
+  - name: NPC_lens
+    uniqueID: 4069798027
+    locked: 0
+  - name: NPC_design
+    uniqueID: 3939109037
+    locked: 0
+  - name: NPC_mouth
+    uniqueID: 2873587349
+    locked: 0
+  - name: BOX_bottom
+    uniqueID: 859129665
+    locked: 0
+  - name: BOX_design
+    uniqueID: 813891333
+    locked: 0
+  m_RenderingLayers:
+  - Default
